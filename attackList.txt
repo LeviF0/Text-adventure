@@ -1,0 +1,19 @@
+||=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=||
+\\                                                 \\
+//                    MOVE LIST                    //
+||                                                 ||
+\\                                                 \\
+||        Attacking can deal from 3 up to 10       ||
+\\        damage, but you also take damage         \\
+//                                                 //
+||        Defending can be really useful in a      || 
+\\        pinch, you take less damage but you      \\
+//        deal less damage                         //
+||                                                 || 
+\\        Snacking = Healing, you always heal 10   \\
+//        health points                            //
+||                                                 || 
+\\        Press anything to continue.              \\
+//                                                 //
+||=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=|| 
+                                       

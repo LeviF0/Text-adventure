@@ -1,0 +1,25 @@
+||=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=||
+\\                                                 \\
+//                                                 //
+||                    MOVE LIST                    ||
+\\                                                 \\
+//     Going forwards is simple, just write:       //
+||                        forward                  ||
+\\                                                 \\
+//     If you're stuck and want to go back write:  //
+||                        back                     ||
+\\                                                 \\
+//     Going left is just as easy as writing:      //
+||                        left                     ||
+\\                                                 \\
+//     Wanna go right? Simply write:               //
+||                        right                    ||
+\\                                                 \\
+//     Do you want to investigate? write:          //
+||                        investigate              ||
+\\                                                 \\
+//             Feel free to screenshot and,        //
+||             Press anything to continue.         ||
+\\                                                 \\
+//                                                 //
+||=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=-_-=||                                    
